@@ -1,0 +1,6 @@
+{
+  "name": "FitVerse AI",
+  "description": "Modern AI virtual fitness trainer with 3D human avatar, real-time MediaPipe pose tracking, rep counting, and smart workout analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
